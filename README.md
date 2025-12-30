@@ -1,4 +1,4 @@
-# Stripe dbt Analytics Engineering Project
+# SasS dbt Analytics Engineering Project
 
 ## Overview
 This project transforms raw e-commerce transactional data into analytics-ready dimensional models, enabling business intelligence analysis of customer behavior, product performance, and revenue metrics.
