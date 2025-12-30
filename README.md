@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Welcome to your new dbt project!
+=======
+# SasS dbt Analytics Engineering Project
+>>>>>>> 5a8cf1e0fff99ff4bd9c75e1ac8b1408a46316ab
 
 ### Using the starter project
 
