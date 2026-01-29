@@ -1,7 +1,7 @@
 # SasS dbt Analytics Engineering Project
 
 ## Overview
-This project transforms raw e-commerce transactional data into analytics-ready dimensional models, enabling business intelligence analysis of customer behavior, product performance, and revenue metrics.
+This project transforms synthetic raw e-commerce transactional data into analytics-ready dimensional models, enabling business intelligence analysis of customer behavior, product performance, and revenue metrics.
 
 ## Business problem that need to be addressed:
 - What is the month-over-month revenue growth?
@@ -158,7 +158,7 @@ Run tests with: `dbt test`
 
 ### Architecture
 - **Data Warehouse:** Snowflake + dbt
-- **Modeling:** Star schema with daily-grain fact tables
+- **Modeling:** Snowflake schema with daily-grain fact tables
 - **Visualization:** Power BI
 - **Data Quality:** 40+ dbt tests
 
